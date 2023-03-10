@@ -1,0 +1,2 @@
+epoch,train loss,reg loss,train acc,test loss,test acc
+0,1.9705799432901236,0.0,tensor(29.7535),1.4912358040761466,tensor(47.6000)
